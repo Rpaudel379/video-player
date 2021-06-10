@@ -8,6 +8,7 @@ const Upload = ({ dataFromUpload, file }) => {
   const types = [
     "video/mov",
     "video/mp4",
+    "vider/mkv",
     "application/x-mpegURL",
     "video/MP2T",
     "video/quicktime",
